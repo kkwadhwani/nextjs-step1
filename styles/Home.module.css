@@ -114,3 +114,11 @@
     flex-direction: column;
   }
 }
+
+.link{
+  background-color:red; 
+  font-size:1.3rem;
+  color:white;
+  border-radius:4px;
+  padding:5px
+}

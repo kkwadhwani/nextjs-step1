@@ -1,0 +1,9 @@
+[
+    {"color":"red", "name":"red"},
+    {"color":"blue", "name":"blue"},
+    {"color":"pink", "name":"pink"},
+    {"color":"lightgrey","name":"lightgrey"},
+    {"color":"black", "name":"black"},
+    {"color":"yellow", "name":"yellow"}
+
+]
